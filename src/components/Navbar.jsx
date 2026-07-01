@@ -20,7 +20,7 @@ const Navbar = () => {
           </li>
         </ul>
         <div>
-            <ThemeToggle />
+          <ThemeToggle />
         </div>
       </header>
     </nav>
